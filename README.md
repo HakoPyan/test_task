@@ -6,4 +6,4 @@
 
 `npm run dev`
 
-> **Notice that you need to make an .env file and put your API_KEY from www.smarty.com in there!**
+> **Notice that you need to make a .env file and put your API_KEY from www.smarty.com in there!**
