@@ -14,7 +14,7 @@
       </div>
     </div>
     <div class="grid place-content-center text-center">
-      <label class="block">
+      <label class="block p-6">
         <span class="block text-sm font-medium text-slate-700">Zip Code</span>
         <input
           type="text"
